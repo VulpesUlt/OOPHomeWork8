@@ -66,9 +66,7 @@ public:
 
 	const char* what() const override
 	{
-		std::string out;
-		out
-		return direction.c_str();
+
 	}
 };
 
@@ -84,7 +82,6 @@ public:
 	const char* what() const override
 	{
 
-		return direction.c_str();
 	}
 };
 
